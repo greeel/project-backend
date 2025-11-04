@@ -1,2 +1,4 @@
 # project-backend
-Django-Backend
+mkdir project-backend project-frontend
+cd project-backend && git init
+cd ../project-frontend && git init
